@@ -1,0 +1,5 @@
+Insert/delete element at beginning = O(1)
+Insert/Delete Element at the end = O(n)
+Linked List Traversal = O(n)
+Accessing Element by value = O(n)
+Indexing = O(n)
