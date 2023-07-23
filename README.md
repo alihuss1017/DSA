@@ -4,3 +4,4 @@
 
 ### Part Two: (Linked List, Stack, Queue, Heap)
 
+### Part Three: (Binary Tree, Binary Search Tree)
