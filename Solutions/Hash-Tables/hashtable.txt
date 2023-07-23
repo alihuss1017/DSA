@@ -1,8 +1,0 @@
-Dictionary is the Python implementation of a hash map/hash table.
-Dictionaries are more efficient when you want to access a value based on specific information.
-Example: What was the price of a stock on March 9?
-In this case, you would have to iterate through an array to answer this (time = O(n)), while you can 
-simply access the price by using the date as an index (time = O(1))
-
-Look up by key is O(1)
-Insertion/deletion is O(1)
